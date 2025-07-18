@@ -24,7 +24,7 @@ You can run this project in several ways depending on your environment:
 
 3. Open your browser and go to http://localhost:8888 to access the Jupyter Notebook.
 
-### 2. ** On Windows (PowerShell)**
+### 2. **On Windows (PowerShell)**
 
 1. Open PowerShell in the project directory.
 2. Run the setup script:
@@ -33,7 +33,7 @@ You can run this project in several ways depending on your environment:
 .\setup_and_run.ps1
 ```
 
-### 3. ** On Ubuntu/Linux (Bash)**
+### 3. **On Ubuntu/Linux (Bash)**
 
 1. Open a terminal in the project directory.
 2. Make the script executable (first time only):
